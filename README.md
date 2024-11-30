@@ -1,22 +1,26 @@
 # About Me
-Hello, It's a pleasure to meet you,\
-My name is Daniel, and I'm a high-school student and novice programmer who is passionate about aerospace.
+- High-school student
+- Novice programmer
+- passionate about aerospace, computers
+- interested in engineering, mathematics, physics, and chemistry
 
 ## What am I working on?
+
 ### Things I'm currently working on
-- Contestant in the <a href="https://www.stemgames.org.au/"> 2024 Australian STEM Video Game Challenge </a>, with a game called 'StarMiner' you can check it out when it is submitted.
-- Encryption Program
+- (Nothing)
 
 ### Some of my past projects
 - Key Logger (Educational Use Only)
 - Wordle Solver
+- XOR Encryption Program
 
-### Things I'd like to make
-- Chrome Extension
-
-### Things I hope to revist
+### Stuff I abandoned (But should probably get back to)
+- <a href="https://www.stemgames.org.au/"> 2024 Australian STEM Video Game Challenge </a>, with a game called 'StarMiner'
 - Web Server
 - Web Page
+
+### Stuff I'd like to make
+- Chrome Extension
 
 ### You can find me on
 <a href="https://www.linkedin.com/in/daniel-kembo-kavanagh-64455a2b9/"> <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Daniel Kembo Kavanagh"> </a>
