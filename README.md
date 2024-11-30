@@ -1,8 +1,8 @@
 # About Me
 - High-school student
 - Novice programmer
-- passionate about aerospace, computers
-- interested in engineering, mathematics, physics, and chemistry
+- Passionate about aerospace, computers
+- Interested in engineering, mathematics, physics, and chemistry
 
 ## What am I working on?
 
